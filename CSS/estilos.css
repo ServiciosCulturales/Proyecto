@@ -82,3 +82,8 @@ font-size: 18px;
 .proyecto__descripcion{
 	color: grey;
 }
+
+.footer {
+	align-content: center;
+	font-size: 10px;
+}
